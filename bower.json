@@ -1,0 +1,23 @@
+{
+  "name": "jquery.bandoneon",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbondarchuk/jquery.bandoneon",
+  "authors": [
+    "emaphp"
+  ],
+  "description": "Fork of https://github.com/emaphp/jquery.bandoneon",
+  "main": "dist/jquery.bandoneon.js",
+  "keywords": [
+    "jquery",
+    "js",
+    "jquery.bandoneon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
